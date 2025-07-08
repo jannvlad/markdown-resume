@@ -2,10 +2,10 @@
 # 💼 Resume
 
 ## 📇 Contact Information
-- **Full Name:** [Your Full Name]
+- **Full Name:**
 - **Location:** Manila, Philippines
 - **Phone:** +63-XXX-XXX-XXXX
-- **Email:** your.email@example.com
+- **Email:** 
 
 ---
 
