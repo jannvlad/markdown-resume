@@ -101,3 +101,7 @@ ServiceNow, Remote Desktop Management, LogMeIn Rescue
 ## 🎯 Interests
 
 Podcasts, Seminars & Training, Sports, Music, Personal Investing, Video Games & Programming
+
+## Languages
+English: Fluent
+Japanese: Basic
